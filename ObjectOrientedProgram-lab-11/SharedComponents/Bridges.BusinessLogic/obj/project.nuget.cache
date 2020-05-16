@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQw+tTv8LVIN7cBhu872G/CAm/4OXEky61iDvnaDebqtrttZd4rvQDNIohrn/4aSlCNrvXEzI5BYv1ZojkhaeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1292366\\Downloads\\ObjectOrientedProgram-lab-11\\SharedComponents\\Bridges.BusinessLogic\\Bridges.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
