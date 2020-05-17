@@ -1,0 +1,8 @@
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\bin\Debug\netstandard2.0\Bridges.BusinessLogic.deps.json
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\bin\Debug\netstandard2.0\Bridges.BusinessLogic.dll
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\bin\Debug\netstandard2.0\Bridges.BusinessLogic.pdb
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\obj\Debug\netstandard2.0\Bridges.BusinessLogic.csproj.CoreCompileInputs.cache
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\obj\Debug\netstandard2.0\Bridges.BusinessLogic.AssemblyInfoInputs.cache
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\obj\Debug\netstandard2.0\Bridges.BusinessLogic.AssemblyInfo.cs
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\obj\Debug\netstandard2.0\Bridges.BusinessLogic.dll
+c:\Users\1292366\Downloads\ObjectOrientedProgram-lab-22\SharedComponents\Bridges.BusinessLogic\obj\Debug\netstandard2.0\Bridges.BusinessLogic.pdb
